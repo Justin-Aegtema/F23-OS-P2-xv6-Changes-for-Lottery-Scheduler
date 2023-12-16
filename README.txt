@@ -2,7 +2,7 @@ Project changes xv6's round robin scheduler into a lottery scheduler
 
 Portions that I changed can be found w CTRL+F "jtb200002"
 
-After you compile and run xv6, you can showcase the program with these .c files in ./xv6/user
+After you compile and run xv6, you can showcase the program with these .c files in /xv6/user
 
 Just type in the command, excluding the ".c":
 default_tickets.c  
